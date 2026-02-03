@@ -6,4 +6,3 @@ tensorflow==2.16.0  # or tensorflow-cpu==2.16.0
 matplotlib==3.8.4
 seaborn==0.13.2
 setuptools==70.0.0
-wheel==0.43.0
